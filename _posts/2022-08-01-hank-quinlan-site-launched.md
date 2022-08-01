@@ -10,4 +10,4 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 Here is some famous equation $$\sqrt{xy}\leq\frac{x+y}{2}$$
 
-![A crab](aangulog.github.io/pictures/landcrab_85460941.jpg.jpg)
+![A crab](landcrab_85460941.jpg)
