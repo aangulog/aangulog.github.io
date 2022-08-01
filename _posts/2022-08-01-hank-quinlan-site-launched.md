@@ -9,3 +9,5 @@ Well. Finally got around to putting this old website together. Neat thing about 
 ##
 
 Here is some famous equation $$\sqrt{xy}\leq\frac{x+y}{2}$$
+
+![A crab](pictures/landcrab_85460941.jpg.jpg)
